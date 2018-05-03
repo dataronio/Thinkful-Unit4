@@ -1,0 +1,13 @@
+1. Unsupervised methods in general do not compute Liklihoods or standard goodness metrics. This
+would seem to indicate a need for a supervised statistical model only. ans. Supervised
+
+2. This would indicate either PCA or clustering of some sort.  ans. Unsupervised methods.
+
+3.  Identifying power users as it contains a goodness metric would appear to be an application of
+of supervised methods.  The question is ambiguous enough to also probably work with clustering.
+It would require a human to look at the clusters and define what a "Power User" was.
+Final Answer: Both
+
+4. classic unsupervised clustering on shopping variables. ans. unsupervised
+
+5.  Sound like a PCA application.  ans. unsupervised.
